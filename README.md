@@ -1,8 +1,7 @@
-# Fake-News-Detection
+# Fake News Detection on Twitter
 Automatic Fake News Spreader Profiling Detecting
 
 
-# Fake News Detection on Twitter
 This repository contains code and resources for a machine learning framework developed for the detection of fake news posts on the online social media platform Twitter. We have conducted classification experiments on both an English and a Spanish dataset to achieve reliable results.
 
 ## Methodology
